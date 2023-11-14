@@ -14,7 +14,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-portfolio.git
+git clone https://github.com/nayanpatidar370/Personal-Portfolio-Website
 Navigate to the Project:
 
 bash
