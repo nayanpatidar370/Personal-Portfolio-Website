@@ -1,6 +1,8 @@
 Personal Portfolio Website
 Welcome to my personal portfolio website repository! 🚀
 
+To view hosted site: https://nayanpatidar-portfolio.netlify.app
+
 Overview
 This repository showcases the culmination of my web development learning journey. Designed using HTML and CSS, my personal portfolio website reflects my skills, projects, and passion for web development. It serves as a virtual resume and a platform to share my experiences and achievements.
 
